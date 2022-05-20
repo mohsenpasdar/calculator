@@ -1,3 +1,4 @@
+import './styles/styles.scss'
 import Calculator from './components/Calculator'
 
 function App() {
